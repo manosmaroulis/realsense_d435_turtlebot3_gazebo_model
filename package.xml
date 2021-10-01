@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>realsenseD435_turtlebot3_gazebo_model</name>
+  <version>0.0.0</version>
+  <description>The realsense_turtlebot3_gazebo package</description>
+
+  <maintainer email="example@gmail.com">me</maintainer>
+  <license>Apache 2.0</license>
+
+  <url type="website">http://www.ros.org/wiki/RealSense</url>
+  <url type="bugtracker">https://github.com/intel-ros/realsense/issues</url>
+
+  <author email="example@gmail.com">me</author>
+  <author email="example@gmail.com">me</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>realsense2_description</exec_depend>
+  <exec_depend>turtlebot3_description</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>xacro</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>urdf</exec_depend>
+  <test_depend>rosunit</test_depend>
+  
+
+</package>
