@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>realsenseD435_turtlebot3_gazebo_model</name>
+  <name>realsense_d435_turtlebot3_gazebo_model</name>
   <version>0.0.0</version>
   <description>The realsense_turtlebot3_gazebo package</description>
 
