@@ -23,6 +23,7 @@ In order for the package to work you need to install the following.
          sudo apt-get install ros-${ROS_DISTRO}-robot-state-publisher
 
 
+Build your workspace.
 
 
 To launch the model type:
