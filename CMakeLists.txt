@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(realsenseD435_turtlebot3_gazebo_model)
+project(realsense_d435_turtlebot3_gazebo_model)
 
 find_package(catkin REQUIRED COMPONENTS
     )
