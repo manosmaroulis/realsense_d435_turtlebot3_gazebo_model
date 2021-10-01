@@ -23,6 +23,10 @@ In order for the package to work you need to install the following.
          sudo apt-get install ros-${ROS_DISTRO}-robot-state-publisher
 
 
+Clone the realsense plugin repository from pal-robotics (https://github.com/pal-robotics/realsense_gazebo_plugin) into your catkin_workspace/src folder
+
+        git clone https://github.com/pal-robotics/realsense_gazebo_plugin.git
+
 Build your workspace.
 
 
