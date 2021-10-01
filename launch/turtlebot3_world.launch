@@ -17,7 +17,7 @@
  
 
 
-  <param name="robot_description" command="$(find xacro)/xacro --inorder /home/nitlab/catkin_ws/src/realsense_turtlebot3_gazebo/urdf/turtlebot3_waffle_pi.urdf.xacro" />
+  <param name="robot_description" command="$(find xacro)/xacro --inorder $(find realsense_d435_turtlebot3_gazebo_model)/urdf/turtlebot3_waffle_pi.urdf.xacro" />
 
 
 
